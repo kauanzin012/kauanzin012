@@ -2,7 +2,7 @@
 
 meu nome é kauan henrique
 
-- estou estudando na alura
+- estou estudando na [Alura](https://www.alura.com.br)
 - estou me desenvolvendo na liguagem javascript
 - utilizo esse espaço para miniha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -12,4 +12,4 @@ meu nome é kauan henrique
 
 @kauanzin012
 
-![]()
+![]() 
